@@ -1,0 +1,6 @@
+#String and characters
+
+String:- String is a sequence of chaaracters!!
+
+#Mutable:- Values can be changed
+#Immutable:- Values cannot be changed, Strings are immutable
