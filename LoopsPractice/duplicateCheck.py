@@ -1,5 +1,5 @@
 words = ['apple','orange','apple', 'mango' ,'litchi']
-unique_words = set(words)
+unique_words = set()
 
 for word in words:
     if word in unique_words:
