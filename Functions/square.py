@@ -1,4 +1,5 @@
 num = int(input("Enter a number: "))
-def mySquare(num):
-    print("Square of a number is: ",num*num)
-mySquare(num)
+def Square(num):
+    return num*num
+res = Square(num)
+print("Square of a number is: ",res)
